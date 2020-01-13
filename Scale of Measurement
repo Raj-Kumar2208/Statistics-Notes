@@ -1,0 +1,6 @@
+All variables must take on at least two different possible values (otherwise they would be a constant rather than a variable), but different values of the variable can relate to each other in different ways, which we refer to as scales of measurement. There are four ways in which the different values of a variable can differ.
+
+Identity: Each value of the variable has a unique meaning.
+Magnitude: The values of the variable reflect different magnitudes and have an ordered relationship to one another — that is, some values are larger and some are smaller.
+Equal intervals: Units along the scale of measurement are equal to one another. This means, for example, that the difference between 1 and 2 would be equal in its magnitude to the difference between 19 and 20.
+Zero is the minimum value: The scale has a true zero point, below which no values exist. For example, it’s not possible to for a person’s weight to be negative.
